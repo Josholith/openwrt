@@ -49,7 +49,7 @@ ReadThreads 2
 # Output plugin, to send to remote collectd (influxdb)
 LoadPlugin network
 <Plugin "network">
-  Server "192.168.12.29"
+  Server "192.168.12.43"
 </Plugin>
 
 # Input plugins
